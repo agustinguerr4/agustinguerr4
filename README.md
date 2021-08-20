@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=m4niga" />
 <hr>
   
-- 🌱  I’m currently working & learning  on VueJS & WordPress API
+- 🌱  I’m currently working & learning  on VueJS
 <hr>
   
 -  🏅 Knowledge: 
