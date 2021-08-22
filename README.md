@@ -7,22 +7,20 @@
 </div>
 
 <!--
-**m4niga/m4niga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**agustinguerr4/agustinguerr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Node.js
+- 💬 Ask me about Vue
+- 📫 How to reach me: https://www.linkedin.com/in/agustin-guerra
 -->
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=m4niga" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=agustinguerr4" />
 <hr>
   
-- 🌱  I’m currently working & learning  on VueJS
+- 🌱  I’m currently working & learning on VueJS
 <hr>
   
 -  🏅 Knowledge: 
@@ -33,5 +31,5 @@ Here are some ideas to get you started:
 
 - 🗣 How to reach me?
   
-🌐 https://m4ni.ga or 💻 https://gitlab.com/agustinguerr4 or 📩 hi@m4ni.ga
+🌐 https://agustinguerra.com.ar or 💻 https://www.linkedin.com/in/agustin-guerra or 📩 info@agustinguerra.com.ar
   </div>
